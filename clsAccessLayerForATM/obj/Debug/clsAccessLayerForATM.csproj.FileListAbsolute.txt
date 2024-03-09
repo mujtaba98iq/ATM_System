@@ -1,0 +1,6 @@
+C:\Users\mujta\source\repos\C#_Disctop\clsAccessLayerForATM\bin\Debug\clsAccessLayerForATM.dll
+C:\Users\mujta\source\repos\C#_Disctop\clsAccessLayerForATM\bin\Debug\clsAccessLayerForATM.pdb
+C:\Users\mujta\source\repos\C#_Disctop\clsAccessLayerForATM\obj\Debug\clsAccessLayerForATM.csproj.AssemblyReference.cache
+C:\Users\mujta\source\repos\C#_Disctop\clsAccessLayerForATM\obj\Debug\clsAccessLayerForATM.csproj.CoreCompileInputs.cache
+C:\Users\mujta\source\repos\C#_Disctop\clsAccessLayerForATM\obj\Debug\clsAccessLayerForATM.dll
+C:\Users\mujta\source\repos\C#_Disctop\clsAccessLayerForATM\obj\Debug\clsAccessLayerForATM.pdb

@@ -1,0 +1,9 @@
+C:\Users\mujta\source\repos\C#_Disctop\clsClientBisnessForATM\bin\Debug\clsClientBisnessForATM.dll
+C:\Users\mujta\source\repos\C#_Disctop\clsClientBisnessForATM\bin\Debug\clsClientBisnessForATM.pdb
+C:\Users\mujta\source\repos\C#_Disctop\clsClientBisnessForATM\bin\Debug\clsAccessLayerForATM.dll
+C:\Users\mujta\source\repos\C#_Disctop\clsClientBisnessForATM\bin\Debug\clsAccessLayerForATM.pdb
+C:\Users\mujta\source\repos\C#_Disctop\clsClientBisnessForATM\obj\Debug\clsClientBisnessForATM.csproj.AssemblyReference.cache
+C:\Users\mujta\source\repos\C#_Disctop\clsClientBisnessForATM\obj\Debug\clsClientBisnessForATM.csproj.CoreCompileInputs.cache
+C:\Users\mujta\source\repos\C#_Disctop\clsClientBisnessForATM\obj\Debug\clsClientBisnessForATM.csproj.CopyComplete
+C:\Users\mujta\source\repos\C#_Disctop\clsClientBisnessForATM\obj\Debug\clsClientBisnessForATM.dll
+C:\Users\mujta\source\repos\C#_Disctop\clsClientBisnessForATM\obj\Debug\clsClientBisnessForATM.pdb
